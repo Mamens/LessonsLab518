@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lessons</string>
+    <string name="map">Map</string>
+    <string name="dial">Dial</string>
+    <string name="mail">Mail</string>
+    <string name="lorem">Astana Great City:
+    После Февральской революции, в Средней Азии начинают образоваться общественно-политические организации представляющие коренное мусульманское население региона. Одним из первых таких организаций была «Шуро-и-Исламия» (Исламский совет), основанная в марте 1917 года в среде идеологически либерального и демократического движения Джадидизм.</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+        <item>Stores</item>
+        <item>Stores</item>
+        <item>Stores</item>
+        <item>Stores</item>
+        <item>Stores</item>
+        <item>Stores</item>
+    </string-array>
+</resources>
